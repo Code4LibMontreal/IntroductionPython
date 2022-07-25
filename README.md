@@ -5,7 +5,7 @@ No prior programming experience is required or expected for this workshop. It is
 
 ## Before the first workshop
 
-Please download Python with Anaconda. For more information see [the document with instructions in English]().<br>
+Please download Python with Anaconda. For more information see [the document with instructions in English](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/Downloading%20Anaconda.pdf).<br>
 You can follow the directions [here](https://librarycarpentry.org/lc-python-intro/setup.html) <br>
 
 Download the [fairy tales folder]() available here. You then want to extract all files from the ZIP file and save the unzip folder on a "Python Workshop" folder on your Desktop.
