@@ -3,7 +3,7 @@
 This workshop was developed using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
 No prior programming experience is required or expected for this workshop. It is divided into two 2 hours workshop.
 
-## Before the first workshop
+## Before the workshop
 
 Please download Python with Anaconda. For more information see [the document with instructions in English](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/Downloading%20Anaconda.pdf).<br>
 You can follow the directions [here](https://librarycarpentry.org/lc-python-intro/setup.html) <br>
