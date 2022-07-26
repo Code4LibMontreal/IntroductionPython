@@ -12,7 +12,7 @@ Download the [fairy tales folder](https://github.com/Code4LibMontreal/Introducti
 
 This workshop was built using Jupyter Notebooks. During this session, you should use a new notebook to familiarize yourself with this technology.
 The full notebooks for the session is available here: <br>
-[Jupyter Notebook](https://github.com/)<br>
+[Jupyter Notebook](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/pythonWorkshop_BiblioTECH_2022.ipynb)<br>
 Here are some instructions on [how to save Jupyter Notebooks from GitHub](https://stackoverflow.com/questions/45622602/how-to-save-jupyter-notebooks-from-github)
 
 We will build a script during the workshop. During the workshop, you should build the script yourself. [The final script is available](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/Python_ReadFiles.ipynb)
