@@ -1,4 +1,4 @@
-##### English
+##### English, les instructions en français suivront
 # Introduction to Python workshop
 
 This workshop was developed using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
