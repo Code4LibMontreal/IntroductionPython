@@ -1,7 +1,8 @@
+##### English
 # Introduction to Python workshop
 
 This workshop was developed using [Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
-No prior programming experience is required or expected for this workshop. It is divided into two 2 hours workshop.
+No prior programming experience is required or expected for this workshop.
 
 ## Before the workshop
 
@@ -19,6 +20,25 @@ We will build a script during the workshop. During the workshop, you should buil
 
 The documentation for this workshop is available here:
 * [Python Workshop PDF in English](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/BiblioTECH_PythonWorkshop.pdf)
-* [Python Workshop PDF in French](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/BiblioTECH_AtelierPython.pdf)
 
+##### Français
+# Introduction à Python
 
+Cet atelier a été construit à partir du [matériel de Library Carpentries](https://librarycarpentry.org/lc-python-intro/) <br>
+Aucune expérience de programmation n'est nécessaire pour cet atelier.
+
+## Avant l'atelier
+
+S'il vous plait, téléchargez Python avec Anaconda. Pour plus d'informations référez-vous [au document en français](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/Downloading%20Anaconda.pdf).<br>
+
+Téléchargez le contenu du [dossier fairy tales](https://github.com/Code4LibMontreal/IntroductionPython/tree/main/fairytales). Vous voulez décompressez tous les documents dans le dossier ZIP. Enregistrez les documents dans un dossier fairytales dans un dossier Python sur votre bureau. 
+
+Cet atelier sera offert en utilisant Jupyter. Durant la session, vous allez construire votre propre cahier pour vous familiarisez avec la technologie.  
+À titre de référence, voici le cahier Jupyter pour l'atelier: <br>
+[Jupyter Notebook](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/pythonWorkshop_BiblioTECH_2022.ipynb)<br>
+Voici certaines instruction pour [téléchargez un chaier Jupyter à partir de GitHub - en anglais seulement](https://stackoverflow.com/questions/45622602/how-to-save-jupyter-notebooks-from-github)
+
+Nous écrirons un code ensemble durant l'atelier. À titre de référence, [Le code est disponible ici](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/Python_ReadFiles.ipynb)
+
+La documentation pour l'atelier est disponible ici:The documentation for this workshop is available here:
+* [PDF en français pour l'atelier Python](https://github.com/Code4LibMontreal/IntroductionPython/blob/main/BiblioTECH_AtelierPython.pdf)
